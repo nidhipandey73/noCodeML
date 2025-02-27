@@ -18,7 +18,7 @@ This project is a web-based application that allows users to upload CSV or Excel
   - `pandas`
   - `scikit-learn`
   - `streamlit`
-- **Hosting**: GitHub
+
 
 ## Project Structure
 - `preprocessing.py` - Handles data preprocessing tasks.
